@@ -1,9 +1,0 @@
-{
-  "notifications_processing_attempts_total": 32,
-  "notifications_delivered_total": 32,
-  "delivery_latency_ms_total": 3278,
-  "notifications_failed_total": 0,
-  "notifications_retried_total": 0,
-  "dead_letter_total": 0,
-  "metrics_start_time": "2026-03-31T01:36:47Z"
-}
