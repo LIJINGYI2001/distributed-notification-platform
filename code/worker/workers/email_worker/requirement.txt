@@ -1,0 +1,6 @@
+fastapi: /health
+uvicorn: strat HTTP service 
+pika: link RabbitMQ
+filelock: prevent lost update
+
+python-dotenv: read environment variables 
